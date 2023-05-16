@@ -2,7 +2,7 @@
 package Main_Package.HackerRank_Solved_Problems;
 import java.util.Scanner;
 
-public class RuffWork {
+public class Day_2 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         double mainPrice = sc.nextDouble();
